@@ -1,0 +1,43 @@
+h1{
+    color: wheat;
+    position: absolute;
+    right: 1000px;
+}
+
+body{
+    background-color: black;
+}
+
+.yobro{
+    position: absolute;
+    top: 100px;
+}
+
+.yobro1{
+    position: absolute;
+    top: 400px;
+}
+
+.yobro2{
+    position: absolute;
+    top: 700px;
+}
+
+.yobro3{
+    position: absolute;
+    top: 1000px;
+}
+
+.yobro4{
+    position: absolute;
+    top: 1310px;
+}
+
+.yobro5{
+    position: absolute;
+    top: 1610px;
+}
+
+img{
+    border-radius: 40px;
+}
